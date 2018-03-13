@@ -1,0 +1,11 @@
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\bin\Debug\netcoreapp2.0\LanguageBasics.deps.json
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\bin\Debug\netcoreapp2.0\LanguageBasics.runtimeconfig.json
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\bin\Debug\netcoreapp2.0\LanguageBasics.runtimeconfig.dev.json
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\bin\Debug\netcoreapp2.0\LanguageBasics.dll
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\bin\Debug\netcoreapp2.0\LanguageBasics.pdb
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\obj\Debug\netcoreapp2.0\LanguageBasics.csprojResolveAssemblyReference.cache
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\obj\Debug\netcoreapp2.0\LanguageBasics.csproj.CoreCompileInputs.cache
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\obj\Debug\netcoreapp2.0\LanguageBasics.AssemblyInfoInputs.cache
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\obj\Debug\netcoreapp2.0\LanguageBasics.AssemblyInfo.cs
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\obj\Debug\netcoreapp2.0\LanguageBasics.dll
+C:\Users\Brian L\CS4330\LanguageBasics\LanguageBasics\obj\Debug\netcoreapp2.0\LanguageBasics.pdb
